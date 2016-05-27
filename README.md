@@ -2,6 +2,7 @@
 credit http://jakewharton.github.io/butterknife/
 
 
+```groovy
 buildscript {
   repositories {
     mavenCentral()
@@ -17,3 +18,4 @@ dependencies {
   compile 'com.jakewharton:butterknife:8.0.1'
   apt 'com.jakewharton:butterknife-compiler:8.0.1'
 }
+```
